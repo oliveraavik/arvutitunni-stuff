@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Fortnite>
+	<lobby>
+		<item-shop>
+			<skins>
+			</skins>
+		</item-shop>
+		<profile soloWins="3" matches="3" totalWins="200">
+			<game id="1" hasWon="true" />
+			<game id="2" hasWon="true" />
+			<game id="3" hasWon="true" />
+		</profile>
+		<tournaments>
+			<solo>
+				<tournament name="solo practise" />
+				<tournament name="alpha" />
+			</solo>
+			<duo>
+				<tournament name="duo practise" />
+				<tournament name="disco domination" />
+			</duo>
+			<squads>
+				<tournament name="squads practise" />
+			</squads>
+		</tournaments>
+		<locker>
+			<owned-skins>
+				<skin>
+					black-knight
+				</skin>
+			</owned-skins>
+			<owned-emotes>
+				<emote>
+					fresh
+				</emote>
+			</owned-emotes>
+			<owned-glinders>
+				<glinder>
+					dark-bomber
+				</glinder>
+			</owned-glinders>
+		</locker>
+	</lobby>
+	<game type="solo" size="1" enemies="99">
+		<guns>
+			<assult-rifles>
+				<assult-rifle type="legendary" />
+				<assult-rifle type="common" />
+			</assult-rifles>
+			<snipers>
+				<sniper type="legendary" />
+				<sniper type="rare" />
+			</snipers>
+			<shotguns>
+				<shotgun type="common" />
+				<shotgun type="rare" />
+			</shotguns>
+		</guns>
+	</game>
+</Fortnite>
